@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/MultiGameClicker.iml" filepath="$PROJECT_DIR$/MultiGameClicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/MultiGameClicker.iml" filepath="$PROJECT_DIR$/.idea/MultiGameClicker.iml" />
+      <module fileurl="file://C:\Users\Harkor\AndroidStudioProjects\MultiGameClicker\MultiGameClicker.iml" filepath="C:\Users\Harkor\AndroidStudioProjects\MultiGameClicker\MultiGameClicker.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\Harkor\AndroidStudioProjects\MultiGameClicker\app\app.iml" filepath="C:\Users\Harkor\AndroidStudioProjects\MultiGameClicker\app\app.iml" />
     </modules>
   </component>
 </project>
